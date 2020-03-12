@@ -25,3 +25,11 @@
 .free {
   background-color: grey;
 }
+
+.on{
+    background-color: yellow;
+}
+
+.off{
+    background-color: black;
+}
